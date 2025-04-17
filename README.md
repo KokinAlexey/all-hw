@@ -37,4 +37,4 @@
 
 ### Задание 3
 
-![Network graph](https://github.com/KokinAlexey/8-03-hw/img/Screenshot_2.jpg)
+![Network graph](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_2.jpg)
