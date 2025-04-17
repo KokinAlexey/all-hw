@@ -37,4 +37,4 @@
 
 ### Задание 3
 
-![Network graph](https://github.com/KokinAlexey/netology_hw/)
+![Network graph](https://github.com/KokinAlexey/netology_hw/img/Screenshot_2.jpg)
