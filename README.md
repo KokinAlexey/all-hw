@@ -31,10 +31,10 @@
 
 ### Задание 2
 
-[Ссылка на второй коммит](https://github.com/KokinAlexey/8-03-hw/img/Screenshot_2.jpg)
+[Ссылка на второй коммит](https://github.com/KokinAlexey/netology_hw/tree/d0dca9c3829706e15809214453a0a2d620617b7a)
 
 ---
 
 ### Задание 3
 
-![Network graph](https://github.com/KokinAlexey/netology_hw/img/Screenshot_2.jpg)
+![Network graph](https://github.com/KokinAlexey/8-03-hw/img/Screenshot_2.jpg)
