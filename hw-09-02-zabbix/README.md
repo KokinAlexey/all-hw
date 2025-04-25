@@ -27,7 +27,6 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
-### Решение 1
 
 ![скриншот авторизации в админке](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_12.jpg)
 
@@ -52,10 +51,30 @@ systemctl enable zabbix-server apache2
 
 ### Задание 2
 
-[Ссылка на второй коммит](https://github.com/KokinAlexey/netology_hw/tree/d0dca9c3829706e15809214453a0a2d620617b7a)
+Установите Zabbix Agent на два хоста.
 
+#### Требования к результатам
+1. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
+2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
+3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
+4. Приложите в файл README.md текст использованных команд в GitHub
+
+### Решение 2
+![скриншот 1](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_13.jpg)
+![скриншот 2](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_14.jpg)
+![скриншот 3](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_15.jpg)
+
+```shell
+wget https://repo.zabbix.com/zabbix/7.2/release/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.2+ubuntu24.04_all.deb
+dpkg -i zabbix-release_latest_7.2+ubuntu24.04_all.deb
+apt update 
+
+apt install zabbix-agent
+
+sudo mcedit /etc/zabbix/zabbix_agentd.conf
+
+systemctl restart zabbix-agent
+systemctl enable zabbix-agent
+
+```
 ---
-
-### Задание 3
-
-![Network graph](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_2.jpg)
