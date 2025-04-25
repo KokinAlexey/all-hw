@@ -29,7 +29,7 @@
 
 ### Решение 1
 
-![скриншот авторизации в админке](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_13.jpg)
+![скриншот авторизации в админке](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_12.jpg)
 
 ```shell
 wget https://repo.zabbix.com/zabbix/7.2/release/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.2+ubuntu24.04_all.deb
