@@ -22,10 +22,13 @@
 
 ---
 
-### Результат 1-4
-
+### Результат 1
 ![Задание 1](https://github.com/KokinAlexey/8-03-hw/blob/main/img/task1.jpg)
+
+### Результат 2-3
 ![Задание 2-3](https://github.com/KokinAlexey/8-03-hw/blob/main/img/task2-3.jpg)
+
+### Результат 4
 ![Задание 4](https://github.com/KokinAlexey/8-03-hw/blob/main/img/task4.jpg)
 
 ---
