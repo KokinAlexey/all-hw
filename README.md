@@ -25,15 +25,24 @@
 ### Домашняя работа 8-01 "Git"
 
 
-[Ссылка на первый коммит](https://github.com/KokinAlexey/netology_hw/tree/34aab5eaa3fcd60b497257187c3c740f6173a2c5)
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-08-01-git/README.md)
 
 ---
+
 ### Домашняя работа 8-02 "Что такое DevOps. CI/CD"
 
 
-[Ссылка на первый коммит](https://github.com/KokinAlexey/netology_hw/tree/34aab5eaa3fcd60b497257187c3c740f6173a2c5)
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-08-02-jenkins/README.md)
 
 ---
 
+### Домашняя работа 9-02 "Система мониторинга Zabbix"
 
-![Network graph](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_2.jpg)
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-09-02-zabbix/README.md)
+
+---
+
+### Домашняя работа 9-03 "Система мониторинга Zabbix Часть 2"
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-09-03-zabbix/README.md)
+
