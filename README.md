@@ -22,19 +22,18 @@
 
 ---
 
-### Задание 1
+### Домашняя работа 8-01 "Git"
+
+
+[Ссылка на первый коммит](https://github.com/KokinAlexey/netology_hw/tree/34aab5eaa3fcd60b497257187c3c740f6173a2c5)
+
+---
+### Домашняя работа 8-02 "Что такое DevOps. CI/CD"
 
 
 [Ссылка на первый коммит](https://github.com/KokinAlexey/netology_hw/tree/34aab5eaa3fcd60b497257187c3c740f6173a2c5)
 
 ---
 
-### Задание 2
-
-[Ссылка на второй коммит](https://github.com/KokinAlexey/netology_hw/tree/d0dca9c3829706e15809214453a0a2d620617b7a)
-
----
-
-### Задание 3
 
 ![Network graph](https://github.com/KokinAlexey/8-03-hw/blob/main/img/Screenshot_2.jpg)
