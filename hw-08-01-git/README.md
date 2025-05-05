@@ -17,4 +17,4 @@
 
 ### Задание 3
 
-![Network graph](https://github.com/KokinAlexey/all-hw/blob/main/hw-08-01-git/images/Screenshot_2.jpg
+![Network graph](https://github.com/KokinAlexey/all-hw/blob/main/hw-08-01-git/images/Screenshot_2.jpg)
