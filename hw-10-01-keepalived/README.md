@@ -26,6 +26,5 @@
 ### Результат 2
 ![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img3.jpg)
 ![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img4.jpg)
-[Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/check_nginx.sh)
-[Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/keepalived.conf)
-
+-[check_nginx.sh](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/check_nginx.sh)
+-[keepalived.conf](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/keepalived.conf)
