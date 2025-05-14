@@ -46,3 +46,9 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-09-03-zabbix/README.md)
 
+---
+
+### Домашняя работа 10-01 "Disaster recovery и Keepalived"
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/README.md)
+
