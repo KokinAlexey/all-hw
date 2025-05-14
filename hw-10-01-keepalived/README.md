@@ -10,9 +10,9 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 ### Результат 1
-![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img1.jpg)
-![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img2.jpg)
-[Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/hsrp_advanced_kokin_a.pkt)
+![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img1.jpg)  
+![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img2.jpg)  
+[hsrp_advanced_kokin_a.pkt](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/hsrp_advanced_kokin_a.pkt)
 
 ------
 
@@ -24,7 +24,7 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 ### Результат 2
-![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img3.jpg)
-![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img4.jpg)
--[check_nginx.sh](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/check_nginx.sh)
--[keepalived.conf](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/keepalived.conf)
+![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img3.jpg)  
+![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img4.jpg)  
+-[check_nginx.sh](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/check_nginx.sh)  
+-[keepalived.conf](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/conf/keepalived.conf)  
