@@ -52,3 +52,9 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/README.md)
 
+---
+
+### Домашняя работа 10-02 "Кластеризация и балансировка нагрузки"
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/README.md)
+
