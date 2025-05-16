@@ -9,7 +9,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 ### Результат 1
-![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img1.jpg)  
+![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/images/img1.jpg)  
 [haproxy.cfg](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/conf/haproxy1.cfg)
 
 ------
@@ -21,7 +21,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 ### Результат 2
-![Задание 1](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/images/img2.jpg)  
+![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/images/img2.jpg)  
 [haproxy.cfg](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/conf/haproxy2.cfg)
 
 
