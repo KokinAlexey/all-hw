@@ -27,7 +27,7 @@ rsync -cvr --exclude=".*/"  ~/* /tmp/backup/
 ```shell
 * * * * *  sadmin (rsync -r --delete /home/sadmin /tmp/backup && echo "rsync OK" || echo "rsync Error" ) 2>&1 | logger -t my_cron
 ```
-![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/images/img2.jpg)  
+![Задание 2](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-03-backup/images/img2.jpg)  
 
 
 
