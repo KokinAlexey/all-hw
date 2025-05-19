@@ -58,3 +58,9 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/README.md)
 
+---
+
+### Домашняя работа 10-03 "Резервное копирование"
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-03-backup/README.md)
+
