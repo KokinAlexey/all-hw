@@ -64,3 +64,9 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-03-backup/README.md)
 
+---
+
+### Домашняя работа 11-01 "Базы данных, их тип."
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-01-db/README.md)
+
