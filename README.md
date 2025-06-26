@@ -70,3 +70,9 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-01-db/README.md)
 
+---
+
+### Домашняя работа 11-02 "Кеширование Redis/memcached"
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-02-redis/README.md)
+
