@@ -76,6 +76,8 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-02-redis/README.md)
 
+---
+
 ### Домашняя работа 11-03 "ELK"
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-03-elk/README.md)
