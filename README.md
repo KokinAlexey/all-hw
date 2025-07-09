@@ -17,74 +17,59 @@
 Желаем успехов в выполнении домашнего задания!
    
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
-
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
 ---
 
 ### Домашняя работа 8-01 "Git"
-
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-08-01-git/README.md)
 
 ---
 
 ### Домашняя работа 8-02 "Что такое DevOps. CI/CD"
-
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-08-02-jenkins/README.md)
 
 ---
 
 ### Домашняя работа 9-02 "Система мониторинга Zabbix"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-09-02-zabbix/README.md)
 
 ---
 
 ### Домашняя работа 9-03 "Система мониторинга Zabbix Часть 2"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-09-03-zabbix/README.md)
 
 ---
 
 ### Домашняя работа 10-01 "Disaster recovery и Keepalived"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-01-keepalived/README.md)
 
 ---
 
 ### Домашняя работа 10-02 "Кластеризация и балансировка нагрузки"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-02-haproxy/README.md)
 
 ---
 
 ### Домашняя работа 10-03 "Резервное копирование"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-10-03-backup/README.md)
 
 ---
 
 ### Домашняя работа 11-01 "Базы данных, их тип."
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-01-db/README.md)
 
 ---
 
 ### Домашняя работа 11-02 "Кеширование Redis/memcached"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-02-redis/README.md)
 
 ---
 
 ### Домашняя работа 11-03 "ELK"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-03-elk/README.md)
 
 ---
 
 ### Домашняя работа 12-02 "Работа с данными (DDL/DML)"
-
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-02-mysql/README.md)
-
