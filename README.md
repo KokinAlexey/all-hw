@@ -82,3 +82,9 @@
 
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-11-03-elk/README.md)
 
+---
+
+### Домашняя работа 12-02 "Работа с данными (DDL/DML)"
+
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-02-mysql/README.md)
+
