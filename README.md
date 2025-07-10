@@ -73,3 +73,8 @@
 
 ### Домашняя работа 12-02 "Работа с данными (DDL/DML)"
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-02-mysql/README.md)
+
+---
+
+### Домашняя работа 12-03 "SQL. Часть 1"
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-03-SQL-1/README.md)
