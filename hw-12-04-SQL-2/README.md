@@ -69,3 +69,34 @@ LIMIT 1
 
 ![Задание 3](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-04-SQL-2/images/Screenshot_3.jpg)
 
+### Задание 4*
+
+Посчитайте количество продаж, выполненных каждым продавцом. Добавьте вычисляемую колонку «Премия». Если количество продаж превышает 8000, то значение в колонке будет «Да», иначе должно быть значение «Нет».
+
+**ОТВЕТ:**
+```SQl
+SELECT CONCAT_WS(" ", s.first_name, s.last_name) AS 'ФИО', 
+    CASE
+	WHEN COUNT(*) > 8000 THEN 'Да'
+	ELSE 'Нет'
+    END AS 'Премия'
+FROM staff s
+RIGHT JOIN payment p ON s.staff_id =p.staff_id
+GROUP BY s.staff_id
+```  
+
+![Задание 4](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-04-SQL-2/images/Screenshot_4.jpg)
+
+### Задание 5*
+
+Найдите фильмы, которые ни разу не брали в аренду.
+
+**ОТВЕТ:**
+```SQl
+SELECT *
+FROM film f 
+left JOIN inventory i ON i.film_id = f.film_id
+WHERE ISNULL(i.inventory_id)
+```  
+
+![Задание 5](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-04-SQL-2/images/Screenshot_5.jpg)
