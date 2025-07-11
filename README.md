@@ -78,3 +78,7 @@
 
 ### Домашняя работа 12-03 "SQL. Часть 1"
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-03-SQL-1/README.md)
+---
+
+### Домашняя работа 12-04 "SQL. Часть 2"
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-04-SQL-2/README.md)
