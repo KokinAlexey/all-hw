@@ -1,0 +1,40 @@
+networks:
+  mysql-net:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 10.5.0.0/24
+
+services:
+  mysql-master:
+    image: 'mysql:9.3'
+    container_name: mysql-master
+    env_file: .env
+    volumes:
+      - ./master/db:/var/lib/mysql
+      - ./master/my.cnf:/etc/my.cnf
+      - ./master/master.sql:/docker-entrypoint-initdb.d/start.sql
+    environment:
+      - MYSQL_ROOT_PASSWORD:${MYSQL_ROOT_PASSWORD}
+    networks:
+      - mysql-net
+    ports:
+      - 3306:3306
+
+  mysql-slave:
+    image: 'mysql:9.3'
+    container_name: mysql-slave
+    env_file: .env
+    volumes:
+      - ./slave/db:/var/lib/mysql
+      - ./slave/my.cnf:/etc/my.cnf
+      - ./slave/slave.sql:/docker-entrypoint-initdb.d/start.sql
+    environment:
+      - MYSQL_ROOT_PASSWORD:${MYSQL_ROOT_PASSWORD}
+    networks:
+      - mysql-net
+    ports:
+      - 3307:3306
+    depends_on:
+      - mysql-master
