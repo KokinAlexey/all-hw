@@ -88,3 +88,8 @@
 
 ### Домашняя работа 12-06 "Репликация и масштабирование. Часть 1"
 [Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-06-mysql_repl/README.md)
+
+---
+
+### Домашняя работа 12-07 "Репликация и масштабирование. Часть 2"
+[Ссылка на ДЗ](https://github.com/KokinAlexey/all-hw/blob/main/hw-12-07-shard/README.md)
